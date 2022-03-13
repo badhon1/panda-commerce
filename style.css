@@ -25,6 +25,7 @@
 .cat1, .cat2, .cat3{
     padding: 10px 40px;
     border-radius: 30px;
+    box-shadow: 10px 10px 30px gray;
 }
 .cat1{
     background-color: orange;
@@ -40,4 +41,19 @@
 }
 .catagoroies img{
     width: 80px;
+}
+.card{
+    border: none;
+    box-shadow: 10px 10px 20px gray;
+    border-radius: 30px;
+}
+.contact{
+    height: 300px;
+    border-radius: 30px;
+}
+.contact h6{
+    color: gray;
+}
+footer{
+    text-align: center;
 }
